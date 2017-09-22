@@ -6,6 +6,8 @@ public class Main {
     }
 
     protected String foo() {
+        Main main = new Main();
+        main.abc();
         return "test";
     }
 
