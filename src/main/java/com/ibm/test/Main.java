@@ -1,6 +1,9 @@
 package com.ibm.test;
 
 public class Main {
+
+    private void test() {}
+
     protected int abc() {
         return 15;
     }
